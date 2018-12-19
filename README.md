@@ -1,7 +1,7 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
-Given data from a wholesale ratailer with use customer's annual spending on different products, define a  customer segmentation.
+Using data collected by a wholesale ratailer on customer spending on different products, use unsupervised learning to define a customer segmentation.
 
 ### Code
 
